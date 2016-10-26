@@ -1,0 +1,332 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sibproforum.ru" resolutions="1x" timestamp="1477461273584">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="thank-you.css" crc="4067029817" ref="thank-you"/>
+    <file name="iefonts_thank-you.css" crc="3878076352" ref="thank-you"/>
+    <file name="index.css" crc="4169346158" ref="index"/>
+    <file name="iefonts_index.css" crc="4189088280" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="программа_сибпрофорум-2016.pdf" crc="4209252490" seo="true" mt="1477377300000"/>
+    <file name="договор-оферты-сибпрофорум-2016.pdf" crc="3963039055" seo="true" mt="1477383060000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:thank-you"/>
+    <file name="museutils.js" crc="3851988764" ref="index:thank-you"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thank-you"/>
+    <file name="museconfig.js" crc="169177150" ref="index:thank-you"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:thank-you"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:thank-you"/>
+    <file name="pie.js" crc="3831537696" ref="index:thank-you"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:thank-you"/>
+    <file name="webpro.js" crc="4067903014" ref="index:thank-you"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index:thank-you"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index:thank-you"/>
+    <file name="touchswipe.js" crc="474750357" ref="index:thank-you"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u1846.php" crc="4207651060" ref="index"/>
+    <file name="form-u1958.php" crc="4240273147" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:thank-you"/>
+    <file name="require.js" crc="4108833657" ref="index:thank-you"/>
+  </folder>
+  <folder name="images">
+    <file name="01_logo_sibproforum.jpg" crc="3771084819" ref="index:thank-you"/>
+    <file name="01_icon_phone.png" crc="80258941" ref="index:thank-you"/>
+    <file name="02_icon_convert.png" crc="24154794" ref="index:thank-you"/>
+    <file name="03_icon_clock.png" crc="4005954356" ref="index:thank-you"/>
+    <file name="01_fon.jpg" crc="3908492497" ref="index:thank-you"/>
+    <file name="01_strategy_icon-u21716.png" crc="4257695885" ref="index"/>
+    <file name="02_personal_icon-u21726.png" crc="69302258" ref="index"/>
+    <file name="03_sales_icon-u21737.png" crc="4228724786" ref="index"/>
+    <file name="04_innovation_icon-u21748.png" crc="91436466" ref="index"/>
+    <file name="01_excursii_photo_icon.jpg" crc="4159926430" ref="index"/>
+    <file name="02_msterclass_photo_icon.jpg" crc="345398364" ref="index"/>
+    <file name="03_diskussiya_photo_icon.jpg" crc="165488694" ref="index"/>
+    <file name="02_elena-pyaskovskaya_oleg-rudenko_black-ieu44658-fr.png" crc="3946263748" ref="index:thank-you"/>
+    <file name="02_elena-pyaskovskaya_oleg-rudenko_black.jpg" crc="4137369619" ref="index:thank-you"/>
+    <file name="01_elena-pyaskovskaya_oleg-rudenko_red-ieu44658-r-fr.png" crc="113444303" ref="index:thank-you"/>
+    <file name="01_elena-pyaskovskaya_oleg-rudenko_red.jpg" crc="65422728" ref="index:thank-you"/>
+    <file name="02_sergey-karpekin_anna-levenson_black.jpg" crc="3911445927" ref="index:thank-you"/>
+    <file name="01_sergey-karpekin_anna-levenson_red.jpg" crc="249646148" ref="index:thank-you"/>
+    <file name="01_natalya-anisimova_anna-egorova_black-ieu44667-fr.png" crc="137335671" ref="index:thank-you"/>
+    <file name="01_natalya-anisimova_anna-egorova_black.jpg" crc="510148015" ref="index:thank-you"/>
+    <file name="02_natalya-anisimova_anna-egorova_red-ieu44667-r-fr.png" crc="326417046" ref="index:thank-you"/>
+    <file name="02_natalya-anisimova_anna-egorova_red.jpg" crc="523440973" ref="index:thank-you"/>
+    <file name="01_konstantin-dzyadukov_black.jpg" crc="213177308" ref="index:thank-you"/>
+    <file name="02_konstantin-dzyadukov_red.jpg" crc="4195294747" ref="index:thank-you"/>
+    <file name="02_roman tsarenko_svetlana mamatova_black.jpg" crc="509713108" ref="index:thank-you"/>
+    <file name="01_roman tsarenko_svetlana mamatova_red.jpg" crc="326232808" ref="index:thank-you"/>
+    <file name="02_irina babintseva_olesya ermakova_black-ieu44656-fr.png" crc="3876980495" ref="index:thank-you"/>
+    <file name="02_irina babintseva_olesya ermakova_black.jpg" crc="179402215" ref="index:thank-you"/>
+    <file name="01_irina babintseva_olesya ermakova_red-ieu44656-r-fr.png" crc="97602870" ref="index:thank-you"/>
+    <file name="01_irina babintseva_olesya ermakova_red.jpg" crc="365954731" ref="index:thank-you"/>
+    <file name="02_yuriy bernadskiy_mikhail pyaskovskiy_black-ieu44662-fr.png" crc="3969442445" ref="index:thank-you"/>
+    <file name="02_yuriy bernadskiy_mikhail pyaskovskiy_black.jpg" crc="3771899224" ref="index:thank-you"/>
+    <file name="01_yuriy bernadskiy_mikhail pyaskovskiy_red-ieu44662-r-fr.png" crc="244905315" ref="index:thank-you"/>
+    <file name="01_yuriy bernadskiy_mikhail pyaskovskiy_red.jpg" crc="4137933782" ref="index:thank-you"/>
+    <file name="02_vitaliy frolov_black.jpg" crc="3804120714" ref="index:thank-you"/>
+    <file name="01_vitaliy frolov_red.jpg" crc="4069825321" ref="index:thank-you"/>
+    <file name="02_roman kazantsev_alexander yarosh_black-ieu44666-fr.png" crc="354738987" ref="index:thank-you"/>
+    <file name="02_roman kazantsev_alexander yarosh_black.jpg" crc="175212511" ref="index:thank-you"/>
+    <file name="01_roman kazantsev_alexander yarosh_red-ieu44666-r-fr.png" crc="395110047" ref="index:thank-you"/>
+    <file name="01_roman kazantsev_alexander yarosh_red.jpg" crc="375838100" ref="index:thank-you"/>
+    <file name="02_pavel boboshik_black.jpg" crc="132317426" ref="index:thank-you"/>
+    <file name="01_pavel boboshik_red.jpg" crc="158910043" ref="index:thank-you"/>
+    <file name="02_anton titov_irinapoddubnaya_black-ieu44659-fr.png" crc="4006922207" ref="index:thank-you"/>
+    <file name="02_anton titov_irinapoddubnaya_black.jpg" crc="2747043" ref="index:thank-you"/>
+    <file name="01_anton titov_irinapoddubnaya_red-ieu44659-r-fr.png" crc="4100267648" ref="index:thank-you"/>
+    <file name="01_anton titov_irinapoddubnaya_red.jpg" crc="3855255465" ref="index:thank-you"/>
+    <file name="02_sergey buchik_maksim maherov_black.jpg" crc="4251586197" ref="index:thank-you"/>
+    <file name="01_sergey buchik_maksim maherov_red.jpg" crc="387209137" ref="index:thank-you"/>
+    <file name="02_rost v usloviyah novoy realnosti_black.jpg" crc="197380379" ref="index:thank-you"/>
+    <file name="01_rost v usloviyah novoy realnosti_red.jpg" crc="343490367" ref="index:thank-you"/>
+    <file name="01_icon_director_sobstvennik.png" crc="3803635342" ref="index"/>
+    <file name="02_icon_director_proizvodstvo.png" crc="144730830" ref="index"/>
+    <file name="03_icon_director_marketing.png" crc="534938068" ref="index"/>
+    <file name="02_alexandr lulko_blue.jpg" crc="495961275" ref="index"/>
+    <file name="03_alexandr lulko_opacity.png" crc="3858899985" ref="index"/>
+    <file name="03_alexandr lulko_opacity-u34614-fr.png" crc="4252531132" ref="index"/>
+    <file name="02_yuriy bernadskiy_blue.jpg" crc="3922476350" ref="index"/>
+    <file name="03_yuriy bernasskiy_opacity.png" crc="3985067703" ref="index"/>
+    <file name="03_yuriy bernasskiy_opacity-u35387-fr.jpg" crc="230917718" ref="index"/>
+    <file name="02_anton titov_blue.jpg" crc="3796190091" ref="index"/>
+    <file name="03_anton titov_opacity.png" crc="143485868" ref="index"/>
+    <file name="03_anton titov_opacity-u35162-fr.png" crc="4155100716" ref="index"/>
+    <file name="02_pavel boboshikk_blue.jpg" crc="337347395" ref="index"/>
+    <file name="03_pavel boboshikk_opacity.png" crc="3870002187" ref="index"/>
+    <file name="03_pavel boboshikk_opacity-u35242-fr.png" crc="3915418924" ref="index"/>
+    <file name="02_vladimir_loktionov_blue.jpg" crc="4160285976" ref="index"/>
+    <file name="03_vladimir_loktionov_opacity.png" crc="306441330" ref="index"/>
+    <file name="03_vladimir_loktionov_opacity-u35347-fr.png" crc="64834000" ref="index"/>
+    <file name="02_vitaliy frolov_blue.jpg" crc="4116073966" ref="index"/>
+    <file name="03_vitaliy frolov_opacity.png" crc="3890518279" ref="index"/>
+    <file name="03_vitaliy frolov_opacity-u34813-fr.png" crc="408678450" ref="index"/>
+    <file name="02_sergey buchik_blue.jpg" crc="180306163" ref="index"/>
+    <file name="03_sergey buchik_opacity.png" crc="519507341" ref="index"/>
+    <file name="03_sergey buchik_opacity-u34928-fr.png" crc="4024085697" ref="index"/>
+    <file name="02_alexandr yarosh_blue.jpg" crc="193024070" ref="index"/>
+    <file name="03_alexandr yarosh_opacity.png" crc="494006734" ref="index"/>
+    <file name="03_alexandr yarosh_opacity-u35266-fr.png" crc="151345902" ref="index"/>
+    <file name="02_mikhail pyaskovskiy_blue.jpg" crc="3939210398" ref="index"/>
+    <file name="03_mikhail pyaskovskiy_opacity.png" crc="177478345" ref="index"/>
+    <file name="03_mikhail pyaskovskiy_opacity-u34589-fr.png" crc="3997779830" ref="index"/>
+    <file name="02_sergey karpekin_blue.jpg" crc="4280696655" ref="index"/>
+    <file name="03_sergey karpekin_opacity.png" crc="147126506" ref="index"/>
+    <file name="03_sergey karpekin_opacity-u34886-fr.png" crc="183907046" ref="index"/>
+    <file name="02_svetlana mamatova_blue.jpg" crc="194452418" ref="index"/>
+    <file name="03_svetlana mamatova_opacity.png" crc="4147640943" ref="index"/>
+    <file name="03_svetlana mamatova_opacity-u34519-fr.png" crc="3919247171" ref="index"/>
+    <file name="02_artyom galimov_blue.jpg" crc="4178972128" ref="index"/>
+    <file name="03_artyom galimov_opacity.png" crc="145697714" ref="index"/>
+    <file name="03_artyom galimov_opacity-u35175-fr.png" crc="77662801" ref="index"/>
+    <file name="02_sergey bragin_blue.jpg" crc="366036093" ref="index"/>
+    <file name="03_sergey bragin_opacity.png" crc="269193405" ref="index"/>
+    <file name="03_sergey bragin_opacity-u34736-fr.png" crc="489966626" ref="index"/>
+    <file name="02_roman razantsev_blue.jpg" crc="4028402605" ref="index"/>
+    <file name="03_roman razantsev_opacity.png" crc="337239992" ref="index"/>
+    <file name="03_roman razantsev_opacity-u34851-fr.png" crc="4094023155" ref="index"/>
+    <file name="02_anna levenson_blue.jpg" crc="4088318455" ref="index"/>
+    <file name="03_anna levenson_opacity.png" crc="304869318" ref="index"/>
+    <file name="03_anna levenson_opacity-u35111-fr.png" crc="396636162" ref="index"/>
+    <file name="02_maxim maherov_blue.jpg" crc="3831219855" ref="index"/>
+    <file name="03_maxim maherov_opacity.png" crc="4275059818" ref="index"/>
+    <file name="03_maxim maherov_opacity-u35026-fr.png" crc="506707600" ref="index"/>
+    <file name="02_elena pyaskovskaya_blue.jpg" crc="399309874" ref="index"/>
+    <file name="02_elena pyaskovskaya_opacity.png" crc="4035135332" ref="index"/>
+    <file name="02_elena pyaskovskaya_opacity-u35427-fr.png" crc="178420387" ref="index"/>
+    <file name="02_konstantin dzyadukov_blue.jpg" crc="4166056481" ref="index"/>
+    <file name="03_konstantin dzyadukov_opacity.png" crc="3785785413" ref="index"/>
+    <file name="03_konstantin dzyadukov_opacity-u34460-fr.png" crc="3952953982" ref="index"/>
+    <file name="02_natalya anisimova_blue.jpg" crc="327824403" ref="index"/>
+    <file name="03_natalya anisimova_opacity.png" crc="524510395" ref="index"/>
+    <file name="03_natalya anisimova_opacity-u34552-fr.png" crc="3803985754" ref="index"/>
+    <file name="02_irina poddubnaya_blue.jpg" crc="428564659" ref="index"/>
+    <file name="03_irina poddubnaya_opacity.png" crc="101543366" ref="index"/>
+    <file name="03_irina poddubnaya_opacity-u34425-fr.png" crc="3930137373" ref="index"/>
+    <file name="02_mikhail moiseenko_blue.jpg" crc="3940552450" ref="index"/>
+    <file name="03_mikhail moiseenko_opacity.png" crc="122286798" ref="index"/>
+    <file name="03_mikhail moiseenko_opacity-u34763-fr.png" crc="4257975839" ref="index"/>
+    <file name="02_ekaterina_degtyareava_blue.jpg" crc="4079085923" ref="index"/>
+    <file name="03_ekaterna degtyareva_opacity.png" crc="4291566673" ref="index"/>
+    <file name="03_ekaterna degtyareva_opacity-u34987-fr.png" crc="3822673291" ref="index"/>
+    <file name="02_marina hayrullina_blue.jpg" crc="4061801306" ref="index"/>
+    <file name="03_marina hayrullina_opacity.png" crc="167203032" ref="index"/>
+    <file name="03_marina hayrullina_opacity-u35494-fr.png" crc="91410348" ref="index"/>
+    <file name="02_elena korchuganova_blue.jpg" crc="3840195307" ref="index"/>
+    <file name="03_elena korchuganova_opacity.png" crc="4011383419" ref="index"/>
+    <file name="03_elena korchuganova_opacity-u35081-fr.png" crc="4252007547" ref="index"/>
+    <file name="02_anna egorova_blue.jpg" crc="182499756" ref="index"/>
+    <file name="03_anna egorova_opacity.png" crc="362176911" ref="index"/>
+    <file name="03_anna egorova_opacity-u34482-fr.png" crc="3942335271" ref="index"/>
+    <file name="02_roman tsarenko_blue.jpg" crc="3885285755" ref="index"/>
+    <file name="02_roman tsarenko_opacity.png" crc="4228757292" ref="index"/>
+    <file name="02_roman tsarenko_opacity-u35463-fr.png" crc="241680474" ref="index"/>
+    <file name="02_olesya ermakova_blue.jpg" crc="411926788" ref="index"/>
+    <file name="02_olesya ermakova_opacity.png" crc="4260860586" ref="index"/>
+    <file name="02_olesya ermakova_opacity-u34681-fr.png" crc="4054139132" ref="index"/>
+    <file name="02_irina babintseva_blue.jpg" crc="4001980584" ref="index"/>
+    <file name="03_irina babintseva_opacity.png" crc="3935433139" ref="index"/>
+    <file name="03_irina babintseva_opacity-u35304-fr.png" crc="3893304500" ref="index"/>
+    <file name="02_irina grigoreva_blue.jpg" crc="100237162" ref="index"/>
+    <file name="03_irina grigoreva_opacity.png" crc="3876741026" ref="index"/>
+    <file name="03_irina grigoreva_opacity-u35531-fr.png" crc="3861195018" ref="index"/>
+    <file name="02_mikhail legkopudov_blue.jpg" crc="4222213343" ref="index"/>
+    <file name="03_mikhail legkopudov_opacity.png" crc="3763238315" ref="index"/>
+    <file name="03_mikhail legkopudov_opacity-u34383-fr.png" crc="3975446614" ref="index"/>
+    <file name="02_elena seryh_blue.jpg" crc="4193015450" ref="index"/>
+    <file name="03_elena seryh_opasity.png" crc="494144836" ref="index"/>
+    <file name="03_elena seryh_opasity-u34667-fr.png" crc="4103102715" ref="index"/>
+    <file name="02_vitaliy vetrov_blue.jpg" crc="4268827610" ref="index"/>
+    <file name="03_vitaliy vetrov_opacity.png" crc="4220660743" ref="index"/>
+    <file name="03_vitaliy vetrov_opacity-u34325-fr.png" crc="4161350801" ref="index"/>
+    <file name="02_oleg rudenko_blue.jpg" crc="184106280" ref="index"/>
+    <file name="03_oleg rudenko_opacity.png" crc="3981489888" ref="index"/>
+    <file name="03_oleg rudenko_opacity-u34964-fr.png" crc="4285627939" ref="index"/>
+    <file name="02_dmitry kokoulin_blue.jpg" crc="3965037697" ref="index"/>
+    <file name="03_dmitry kokoulin_opacity.png" crc="338563908" ref="index"/>
+    <file name="03_dmitry kokoulin_opacity-u38934-fr.png" crc="4176477967" ref="index"/>
+    <file name="02_svetlana koroleva_blue.jpg" crc="3909658584" ref="index"/>
+    <file name="03_svetlana koroleva_opacity.png" crc="90586697" ref="index"/>
+    <file name="03_svetlana koroleva_opacity-u39059-fr.png" crc="533064601" ref="index"/>
+    <file name="02_alaxandr-vasenev_blue.jpg" crc="219741074" ref="index"/>
+    <file name="03_alaxandr-vasenev_opacity.png" crc="4288399149" ref="index"/>
+    <file name="03_alaxandr-vasenev_opacity-u44121-fr.png" crc="484216391" ref="index"/>
+    <file name="01_icon_pesochnye_chasy-u2093-fr.png" crc="4150597907" ref="index"/>
+    <file name="02_icon_medal-u2104-fr.png" crc="3877029276" ref="index"/>
+    <file name="03_icon_map.png" crc="4248320470" ref="index"/>
+    <file name="04_icon_lectures-u2126-fr.png" crc="4284520451" ref="index"/>
+    <file name="01_logo_ekran.jpg" crc="169330993" ref="index"/>
+    <file name="01_photo.jpg" crc="129766498" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="03_photo.jpg" crc="4060447498" seo="true" ref="index"/>
+    <file name="02_photo.jpg" crc="4187704212" seo="true" ref="index"/>
+    <file name="04_photo.jpg" crc="4186979989" seo="true" ref="index"/>
+    <file name="05_photo.jpg" crc="3937225806" seo="true" ref="index"/>
+    <file name="06_photo.jpg" crc="508843904" seo="true" ref="index"/>
+    <file name="07_photo.jpg" crc="4174510825" seo="true" ref="index"/>
+    <file name="08_photo.jpg" crc="4220141853" seo="true" ref="index"/>
+    <file name="09_photo.jpg" crc="518187973" seo="true" ref="index"/>
+    <file name="01_photo-crop-u41075.jpg" crc="356559093" ref="index"/>
+    <file name="03_photo-crop-u41242.jpg" crc="4018944549" ref="index"/>
+    <file name="02_photo-crop-u41095.jpg" crc="59257471" ref="index"/>
+    <file name="04_photo-crop-u41115.jpg" crc="401357634" ref="index"/>
+    <file name="05_photo-crop-u41135.jpg" crc="493107981" ref="index"/>
+    <file name="06_photo-crop-u41155.jpg" crc="3909824315" ref="index"/>
+    <file name="07_photo-crop-u41175.jpg" crc="257892141" ref="index"/>
+    <file name="08_photo-crop-u41195.jpg" crc="4238299826" ref="index"/>
+    <file name="09_photo-crop-u41215.jpg" crc="471678558" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo_obuv_rossii.jpg" crc="3858952491" ref="index"/>
+    <file name="01.jpg" crc="238703004" seo="true" ref="index"/>
+    <file name="09.jpg" crc="3848963605" seo="true" ref="index"/>
+    <file name="02.jpg" crc="4062054144" seo="true" ref="index"/>
+    <file name="03.jpg" crc="4027955980" seo="true" ref="index"/>
+    <file name="04.jpg" crc="4113131614" seo="true" ref="index"/>
+    <file name="05.jpg" crc="3861348259" seo="true" ref="index"/>
+    <file name="06.jpg" crc="4158308750" seo="true" ref="index"/>
+    <file name="07.jpg" crc="3963693808" seo="true" ref="index"/>
+    <file name="08.jpg" crc="476770408" seo="true" ref="index"/>
+    <file name="01-crop-u41318.jpg" crc="3836389430" ref="index"/>
+    <file name="09-crop-u41485.jpg" crc="88055732" ref="index"/>
+    <file name="02-crop-u41338.jpg" crc="4001883484" ref="index"/>
+    <file name="03-crop-u41358.jpg" crc="4133210139" ref="index"/>
+    <file name="04-crop-u41378.jpg" crc="4063109611" ref="index"/>
+    <file name="05-crop-u41398.jpg" crc="4160620829" ref="index"/>
+    <file name="06-crop-u41418.jpg" crc="388166152" ref="index"/>
+    <file name="07-crop-u41438.jpg" crc="3782829800" ref="index"/>
+    <file name="08-crop-u41458.jpg" crc="339860714" ref="index"/>
+    <file name="sinar_logo.jpg" crc="3772156171" ref="index"/>
+    <file name="012.jpg" crc="4195530337" seo="true" ref="index"/>
+    <file name="072.jpg" crc="223666913" seo="true" ref="index"/>
+    <file name="022.jpg" crc="3875041778" seo="true" ref="index"/>
+    <file name="032.jpg" crc="295463773" seo="true" ref="index"/>
+    <file name="042.jpg" crc="83978860" seo="true" ref="index"/>
+    <file name="052.jpg" crc="104342087" seo="true" ref="index"/>
+    <file name="062.jpg" crc="268128176" seo="true" ref="index"/>
+    <file name="082.jpg" crc="4093470723" seo="true" ref="index"/>
+    <file name="092.jpg" crc="3897821457" seo="true" ref="index"/>
+    <file name="01-crop-u41569.jpg" crc="3993654306" ref="index"/>
+    <file name="07-crop-u41736.jpg" crc="3972690467" ref="index"/>
+    <file name="02-crop-u41589.jpg" crc="3933737294" ref="index"/>
+    <file name="03-crop-u41609.jpg" crc="382281453" ref="index"/>
+    <file name="04-crop-u41629.jpg" crc="4122948696" ref="index"/>
+    <file name="05-crop-u41649.jpg" crc="3963374687" ref="index"/>
+    <file name="06-crop-u41669.jpg" crc="256662127" ref="index"/>
+    <file name="08-crop-u41689.jpg" crc="255197698" ref="index"/>
+    <file name="09-crop-u41709.jpg" crc="221603357" ref="index"/>
+    <file name="npm_logo.png" crc="3832724919" ref="index"/>
+    <file name="013.jpg" crc="3785767518" seo="true" ref="index"/>
+    <file name="093.jpg" crc="267307406" seo="true" ref="index"/>
+    <file name="023.jpg" crc="421957064" seo="true" ref="index"/>
+    <file name="033.jpg" crc="534101298" seo="true" ref="index"/>
+    <file name="043.jpg" crc="4008822595" seo="true" ref="index"/>
+    <file name="053.jpg" crc="4072226941" seo="true" ref="index"/>
+    <file name="063.jpg" crc="348388665" seo="true" ref="index"/>
+    <file name="073.jpg" crc="128321090" seo="true" ref="index"/>
+    <file name="083.jpg" crc="347946412" seo="true" ref="index"/>
+    <file name="01-crop-u41813.jpg" crc="4072304241" ref="index"/>
+    <file name="09-crop-u41980.jpg" crc="4245501597" ref="index"/>
+    <file name="02-crop-u41833.jpg" crc="3780055572" ref="index"/>
+    <file name="03-crop-u41853.jpg" crc="4065564408" ref="index"/>
+    <file name="04-crop-u41873.jpg" crc="3963100283" ref="index"/>
+    <file name="05-crop-u41893.jpg" crc="69714963" ref="index"/>
+    <file name="06-crop-u41913.jpg" crc="366905825" ref="index"/>
+    <file name="07-crop-u41933.jpg" crc="3895357426" ref="index"/>
+    <file name="08-crop-u41953.jpg" crc="3954996762" ref="index"/>
+    <file name="icon_book.png" crc="4211807711" seo="true" ref="index"/>
+    <file name="01_big.png" crc="20377829" seo="true" ref="index"/>
+    <file name="02_small.png" crc="3971606139" seo="true" ref="index"/>
+    <file name="01_logo-infosoft_web.png" crc="361669056" seo="true" ref="index"/>
+    <file name="02_logo-obuv-rossii.jpg" crc="4005897456" seo="true" ref="index"/>
+    <file name="01_logo_min_prom_web.png" crc="169065387" seo="true" ref="index"/>
+    <file name="01_logo_dep_prom_web.jpg" crc="4272920010" seo="true" ref="index"/>
+    <file name="01_logo_ngtpp_web.jpg" crc="4049484992" seo="true" ref="index"/>
+    <file name="01_logo_nttp_web.jpg" crc="3772224281" seo="true" ref="index"/>
+    <file name="01_logo_lnp_web.jpg" crc="159598963" seo="true" ref="index"/>
+    <file name="01_logo_premiya_web.jpg" crc="4266867982" seo="true" ref="index"/>
+    <file name="02_logo_up_web.png" crc="385121828" seo="true" ref="index"/>
+    <file name="02_logo_sibyurcom_web.jpg" crc="4238333706" seo="true" ref="index"/>
+    <file name="02_logo_interfax_web.jpg" crc="3861340883" seo="true" ref="index"/>
+    <file name="02_logo_stroybiznessgroup_web.jpg" crc="3807893502" seo="true" ref="index"/>
+    <file name="02_logo_redison_web.png" crc="445144947" seo="true" ref="index"/>
+    <file name="02_logo_marriot_web.jpg" crc="501595350" seo="true" ref="index"/>
+    <file name="02_logo_bizon_web.png" crc="3986153533" seo="true" ref="index"/>
+    <file name="02_logo_flitavto_web.png" crc="3968855422" seo="true" ref="index"/>
+    <file name="02_logo_profashion_web.jpg" crc="3904648189" seo="true" ref="index"/>
+    <file name="02_logo_legport_web.jpg" crc="189822104" seo="true" ref="index"/>
+    <file name="02_logo_pvrf_web.jpg" crc="4080364509" seo="true" ref="index"/>
+    <file name="02_logo_kontinent_web.png" crc="535463422" seo="true" ref="index"/>
+    <file name="02_logo_noshb_web.jpg" crc="154600169" seo="true" ref="index"/>
+    <file name="02_logo_intelayt_web.png" crc="315698000" seo="true" ref="index"/>
+    <file name="02_logo_probusiness_web.jpg" crc="4204895018" seo="true" ref="index"/>
+    <file name="02_logo_newslab_web.jpg" crc="4095514321" seo="true" ref="index"/>
+    <file name="02_logo_dk_web.png" crc="402340101" seo="true" ref="index"/>
+    <file name="02_logo_novayasibir_web.jpg" crc="4273248194" seo="true" ref="index"/>
+    <file name="02_vera_proskurova_web.jpg" crc="4152373052" seo="true" ref="index"/>
+    <file name="02_logo_vetrov_i_partnery_web.jpg" crc="3929643466" seo="true" ref="index"/>
+    <file name="02_logo_air_web.png" crc="243828823" seo="true" ref="index"/>
+    <file name="02_logo_aromcadde_web.jpg" crc="92826144" seo="true" ref="index"/>
+    <file name="02_logo_globalnsk_web.jpg" crc="237995914" seo="true" ref="index"/>
+    <file name="02_logo_biznes_photo_web.jpg" crc="26105125" seo="true" ref="index"/>
+    <file name="02_logo_new_grade_web.jpg" crc="3873699772" seo="true" ref="index"/>
+    <file name="02_logo_e-commerce_web.jpg" crc="3969824442" seo="true" ref="index"/>
+    <file name="02_logo_vn_web.png" crc="403133750" seo="true" ref="index"/>
+    <file name="02_logo_expert_web.jpg" crc="3909025733" seo="true" ref="index"/>
+    <file name="02_logo_hh_web.png" crc="152915388" seo="true" ref="index"/>
+    <file name="02_logo_sovsib_web.png" crc="213223181" seo="true" ref="index"/>
+    <file name="u1865-17.png" crc="117173774" ref="index"/>
+    <file name="u1865-17-r.png" crc="327838966" ref="index"/>
+    <file name="u1865-17-m.png" crc="529064990" ref="index"/>
+    <file name="u1865-17-fs.png" crc="190332770" ref="index"/>
+    <file name="u1970-17.png" crc="3895906894" ref="index"/>
+    <file name="u1970-17-r.png" crc="514200771" ref="index"/>
+    <file name="u1970-17-m.png" crc="119649751" ref="index"/>
+    <file name="u1970-17-fs.png" crc="357896327" ref="index"/>
+    <file name="02_fon_zavod_web.jpg" crc="525101624" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="213737391" seo="true" mt="1477461200131" redirect="true"/>
+  <file name="thank-you.html" crc="3915439121" seo="true" mt="1477457081126" redirect="true"/>
+</manifest>
